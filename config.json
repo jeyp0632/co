@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+    "local_server":"True",
+    "local_uri":"mysql://root:@localhost/ava",
+    "prod_uri":"mysql://root:@localhost/ava",
+    "fb_url":"https://facebook.com/hinglaj",
+    "tw_url":"https://twitter.com/hinglaj",
+    "git_url":"https://github.com/baap",
+    "blog_name":"Hinglaj",
+    "gmail-user": "pjoy0632@gmail.com",
+    "gmail-password": "jeyp0632@",
+    "about_text": "hi my name is ajay. And i made this website",
+    "no_of_posts": 2,
+    "login_image":"like.jpg",
+    "admin_user":"pjoy0632",
+    "admin_password":"jeyp0632@",
+    "upload_loction": "C:\\Users\\Ajay\\PycharmProjects\\conctuction\\static"
+
+
+    }
+
+
+
+}
